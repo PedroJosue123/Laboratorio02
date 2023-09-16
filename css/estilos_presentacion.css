@@ -25,7 +25,7 @@ h2 {
     color: white;
 }
 p{background-color: rgb(240, 239, 239);}
-div{
+.parrafo{
     border: thick black;
     background-color: rgb(240, 239, 239); 
     font-size: 18px;
